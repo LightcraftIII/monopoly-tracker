@@ -1,0 +1,1 @@
+[{"name": "Player1", "money": 1700, "properties": ["Property1"], "position": 0, "in_jail": false}, {"name": "Player2", "money": 1500, "properties": [], "position": 0, "in_jail": true}]
