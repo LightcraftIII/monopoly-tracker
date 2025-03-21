@@ -18,20 +18,8 @@ cd monopoly-tracker
 python main.py
 ```
 
-## Keyboard Shortcuts
-| Key Combination | Action               |
-|-----------------|----------------------|
-| Ctrl+N          | New Player           |
-| Ctrl+S          | Quick Save           |
-| Ctrl+L          | Load Game            |
-
-
-## Screenshots
-![Tool Interface](docs/screenshot.png)
-![Tool Interface 2](docs/screenshot1.png)
-
-## Known Limitations
-- Limited undo/redo functionality
+## Screenshot
+![Game Interface](screenshot.png)  # Add later
 
 ## Documentation
 - [Roadmap](docs/ROADMAP.md)
