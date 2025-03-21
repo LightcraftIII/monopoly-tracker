@@ -19,7 +19,7 @@ python main.py
 ```
 
 ## Screenshot
-![Game Interface](screenshot.png)  # Add later
+![Tool Interface](docs/screenshot.png)
 
 ## Documentation
 - [Roadmap](docs/ROADMAP.md)
