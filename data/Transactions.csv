@@ -1,0 +1,36 @@
+timestamp,player,amount,new_balance,reason
+2025-03-21 17:32:27,Bank,400,,Created Rue de la Paix
+2025-03-21 17:32:27,Bank,350,,Created Avenue des Champs-Élysées
+2025-03-21 17:32:27,Bank,320,,Created Boulevard de la Villette
+2025-03-21 17:32:27,Bank,300,,Created Avenue de Neuilly
+2025-03-21 17:32:27,Bank,280,,Created Rue de Paradis
+2025-03-21 17:32:27,Bank,260,,Created Avenue Mozart
+2025-03-21 17:32:27,Bank,240,,Created Boulevard Saint-Michel
+2025-03-21 17:32:27,Bank,220,,Created Place Pigalle
+2025-03-21 17:32:27,Bank,200,,Created Avenue de Breteuil
+2025-03-21 17:32:27,Bank,180,,Created Avenue Foch
+2025-03-21 17:32:27,Bank,160,,Created Boulevard des Capucines
+2025-03-21 17:32:27,Bank,140,,Created Avenue des Ternes
+2025-03-21 17:32:27,Bank,120,,Created Rue de la Fayette
+2025-03-21 17:32:27,Bank,100,,Created Rue de Courcelles
+2025-03-21 17:32:27,Bank,100,,Created Avenue de Wagram
+2025-03-21 17:32:27,Bank,80,,Created Rue de Vaugirard
+2025-03-21 17:32:27,Bank,60,,Created Rue de Rivoli
+2025-03-21 17:32:27,Bank,60,,Created Boulevard de Belleville
+2025-03-21 17:32:27,Bank,60,,Created Rue Lecourbe
+2025-03-21 17:32:27,Bank,60,,Created Rue de Vaugirard
+2025-03-21 17:32:27,Bank,60,,Created Avenue Henri-Martin
+2025-03-21 17:32:27,Bank,200,,Created Gare Montparnasse
+2025-03-21 17:32:27,Bank,200,,Created Gare de Lyon
+2025-03-21 17:32:27,Bank,200,,Created Gare du Nord
+2025-03-21 17:32:27,Bank,200,,Created Gare Saint-Lazare
+2025-03-21 17:32:27,Bank,150,,Created Compagnie de distribution d'eau
+2025-03-21 17:32:27,Bank,150,,Created Compagnie de distribution d'électricité
+2025-03-21 17:32:30,1,0,1500,Player created
+2025-03-21 17:32:33,2,0,1500,Player created
+2025-03-21 17:32:42,1,-400,1100,Purchased Rue de la Paix
+2025-03-21 17:32:59,2,-50,1450,Paid rent for Rue de la Paix
+2025-03-21 17:32:59,1,50,1150,Received rent for Rue de la Paix
+2025-03-21 18:17:02,2,-350,1100,Purchased Avenue des Champs-Élysées
+2025-03-21 18:17:13,1,-35,1115,Paid rent for Avenue des Champs-Élysées
+2025-03-21 18:17:13,2,35,1135,Received rent for Avenue des Champs-Élysées

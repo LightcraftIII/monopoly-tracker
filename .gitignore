@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Python
+*.env
+*.log
+*.sqlite
+
+# Virtual Environment
+.vscode/
+
+# Local Data
+data/saved_games/*.json  # Ignore save files but keep folder

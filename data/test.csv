@@ -1,0 +1,6 @@
+timestamp,player,amount,new_balance,reason
+2025-03-21 17:32:27,Bank,400,,Created Rue de la Paix
+2025-03-21 17:32:30,John,0,1500,Player created
+2025-03-21 17:32:42,John,-400,1100,Purchased Rue de la Paix
+2025-03-21 17:32:59,Jane,-50,1450,Paid rent for Rue de la Paix
+2025-03-21 17:32:59,John,50,1150,Received rent for Rue de la Paix

@@ -1,1 +1,99 @@
-[{"name": "Player1", "money": 1700, "properties": ["Property1"], "position": 0, "in_jail": false}, {"name": "Player2", "money": 1500, "properties": [], "position": 0, "in_jail": true}]
+{
+    "players": [
+        {
+            "name": "John",
+            "money": 1300,
+            "properties": [
+                {
+                    "name": "Rue de la Paix",
+                    "price": 400,
+                    "rent": [
+                        50,
+                        200,
+                        600,
+                        1400,
+                        1700,
+                        2000
+                    ],
+                    "color_group": "Dark Blue",
+                    "owner": "John"
+                }
+            ],
+            "position": 0,
+            "in_jail": false
+        },
+        {
+            "name": "Jane",
+            "money": 1450,
+            "properties": [],
+            "position": 0,
+            "in_jail": false
+        }
+    ],
+    "properties": [
+        {
+            "name": "Rue de la Paix",
+            "price": 400,
+            "rent": [
+                50,
+                200,
+                600,
+                1400,
+                1700,
+                2000
+            ],
+            "color_group": "Dark Blue",
+            "owner": "John"
+        },
+        {
+            "name": "Avenue des Champs-\u00c9lys\u00e9es",
+            "price": 350,
+            "rent": [
+                35,
+                175,
+                500,
+                1100,
+                1300,
+                1500
+            ],
+            "color_group": "Dark Blue",
+            "owner": null
+        }
+    ],
+    "transactions": [
+        {
+            "timestamp": "2025-03-21 17:32:27",
+            "player": "Bank",
+            "amount": 400,
+            "reason": "Created Rue de la Paix"
+        },
+        {
+            "timestamp": "2025-03-21 17:32:30",
+            "player": "John",
+            "amount": 0,
+            "new_balance": 1500,
+            "reason": "Player created"
+        },
+        {
+            "timestamp": "2025-03-21 17:32:42",
+            "player": "John",
+            "amount": -400,
+            "new_balance": 1100,
+            "reason": "Purchased Rue de la Paix"
+        },
+        {
+            "timestamp": "2025-03-21 17:32:59",
+            "player": "Jane",
+            "amount": -50,
+            "new_balance": 1450,
+            "reason": "Paid rent for Rue de la Paix"
+        },
+        {
+            "timestamp": "2025-03-21 17:32:59",
+            "player": "John",
+            "amount": 50,
+            "new_balance": 1150,
+            "reason": "Received rent for Rue de la Paix"
+        }
+    ]
+}

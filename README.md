@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
-GUI application for tracking Monopoly game state and player statistics
+GUI application for tracking Monopoly game state and player statistics.
 
 ## Features
 ✅ Player management  
@@ -31,8 +31,6 @@ python main.py
 ![Tool Interface 2](docs/screenshot1.png)
 
 ## Known Limitations
-- Property management not implemented
-- No rent calculation
 - Limited undo/redo functionality
 
 ## Documentation
