@@ -18,8 +18,22 @@ cd monopoly-tracker
 python main.py
 ```
 
-## Screenshot
+## Keyboard Shortcuts
+| Key Combination | Action               |
+|-----------------|----------------------|
+| Ctrl+N          | New Player           |
+| Ctrl+S          | Quick Save           |
+| Ctrl+L          | Load Game            |
+
+
+## Screenshots
 ![Tool Interface](docs/screenshot.png)
+![Tool Interface 2](docs/screenshot1.png)
+
+## Known Limitations
+- Property management not implemented
+- No rent calculation
+- Limited undo/redo functionality
 
 ## Documentation
 - [Roadmap](docs/ROADMAP.md)
