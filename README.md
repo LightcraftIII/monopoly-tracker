@@ -27,8 +27,8 @@ python main.py
 
 
 ## Screenshots
-![Tool Interface](docs/screenshot.png)
-![Tool Interface 2](docs/screenshot1.png)
+![Tool Interface](docs/screenshot2.png)
+![Tool Interface 2](docs/screenshot3.png)
 
 ## Documentation
 - [Roadmap](docs/ROADMAP.md)
