@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 
-GUI application for tracking Monopoly game state and player statistics.
+GUI application for tracking Monopoly game state and player statistics
 
 ## Features
 ✅ Player management  
@@ -18,8 +18,17 @@ cd monopoly-tracker
 python main.py
 ```
 
-## Screenshot
-![Game Interface](screenshot.png)  # Add later
+## Keyboard Shortcuts
+| Key Combination | Action               |
+|-----------------|----------------------|
+| Ctrl+N          | New Player           |
+| Ctrl+S          | Quick Save           |
+| Ctrl+L          | Load Game            |
+
+
+## Screenshots
+![Tool Interface](docs/screenshot.png)
+![Tool Interface 2](docs/screenshot1.png)
 
 ## Documentation
 - [Roadmap](docs/ROADMAP.md)
