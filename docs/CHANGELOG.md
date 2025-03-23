@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.2.2 - [22/03/2025]
+- Added loaning and repaying functionality with debt logging and automatic debt repayment capability detection
+- Added property selling functionality
+- Fixed some bugs
+- Moved some features to the advanced tab
+- Added exporting transactions history to CSV
+
 ## v0.2.1 - [21/03/2025]
 - Added transaction logging
 - Improved property management
